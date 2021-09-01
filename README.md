@@ -1,5 +1,10 @@
 # Data Science Articles
-A collection of data science articles I published.
+A collection of my data science articles published on Towards Data Science. 
+
+ 
+<a text-align="center" href="https://peggy1502.medium.com/"><img src="https://img.shields.io/badge/Follow-red?logo=medium"></a> me on Medium to stay connected and get updates on all my contents and posts.
+
+
 
 | Title | Article | Repo
 | --- | --- | ---
