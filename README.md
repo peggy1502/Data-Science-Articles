@@ -12,3 +12,6 @@ A collection of my data science articles published in **Towards Data Science**.
 | **Advanced Techniques for Fine-tuning Transformers** <br/>*Learn these advanced techniques and see how they can help improve results* | <a href="https://peggy1502.medium.com/82e4e61e16e?source=friends_link&sk=ef155ae94d003aadb288f3f2c5b8e4ae"><img src="https://img.shields.io/badge/Medium-blue?logo=medium"></a> | <a href="train-roberta-advanced.ipynb"><img src="https://img.shields.io/badge/Github-blue?logo=github"></a> |
 | **AWS Certified Machine Learning — Specialty** <br/>*Tips and suggestions on how to prepare and pass the exam* | <a href="https://towardsdatascience.com/aws-certified-machine-learning-specialty-97eacbd1a0fe?sk=2389134675fe875f51fb5adb143f6f78"><img src="https://img.shields.io/badge/Medium-blue?logo=medium"></a> |  |
 
+<!--
+| **Product Recommendations for Online Retail Store** <br/>*Build and Train a Personalized Recommender Engine with Amazon Sagemaker Factorization Machines* | <a href="https://medium.com/@peggy1502/product-recommendations-for-online-retail-store-1d565e1607b7"><img src="https://img.shields.io/badge/Medium-blue?logo=medium"></a> | <a href="https://github.com/peggy1502/FM-Recommender-Engine/blob/main/fm_v3_part1.ipynb"><img src="https://img.shields.io/badge/Github-blue?logo=github"></a> |
+
