@@ -1,4 +1,4 @@
-# Data Science Articles
+# Peggy's Data Science Articles
 A collection of my data science articles published in **Towards Data Science** and **Towards AI**.
 
  
