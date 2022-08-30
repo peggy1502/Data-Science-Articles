@@ -1,4 +1,4 @@
-# Peggy's Data Science Articles
+# Data Science Articles by Peggy Chang
 A collection of my data science articles published in **Towards Data Science** and **Towards AI**.
 
  
