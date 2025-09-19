@@ -19,3 +19,7 @@ A collection of my data science articles published in **Towards Data Science** a
 | **Lucene Inside Out - Dealing With Integer Encoding and Compression** [🐟🐟🐟 *Deep Dives*]<br/>*Delve into PackedInts, VInt, FixedBitSet, and RoaringDocIdSet (Roaring Bitmaps)* | <a href="https://towardsdatascience.com/lucene-inside-out-dealing-with-integer-encoding-and-compression-fe28f9dd265d"><img src="https://img.shields.io/badge/Medium-blue?logo=medium"></a> |  |
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V0ECSEF)
+
+[![Stargazers repo roster for @peggy1502/Data-Science-Articles](https://reporoster.com/stars/peggy1502/Data-Science-Articles)](https://github.com/peggy1502/Data-Science-Articles/stargazers)
+
+[![Forkers repo roster for @peggy1502/Data-Science-Articles](https://reporoster.com/forks/peggy1502/Data-Science-Articles)](https://github.com/peggy1502/Data-Science-Articles/network/members)
